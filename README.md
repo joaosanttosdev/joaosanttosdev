@@ -2,7 +2,7 @@
 
 I'm a **Software Engineering student** focused on **backend development and APIs**, with a strong interest in **open source**.
 
-I use this profile to share personal projects, experiments, and things I'm currently studying. Everything here is built from scratch — no copy‑paste templates.
+I use this profile to share personal projects, experiments, and things I'm currently studying.
 
 ---
 
