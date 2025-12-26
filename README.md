@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**joaosanttosdev/joaosanttosdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineering student** focused on **backend development and APIs**, with a strong interest in **open source**.
 
-Here are some ideas to get you started:
+I use this profile to share personal projects, experiments, and things I'm currently studying. Everything here is built from scratch — no copy‑paste templates.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tools & Tech
+
+* Node.js, JavaScript, TypeScript
+* REST APIs
+* Linux & Shell
+* Git & GitHub
+
+---
+
+### 👨‍💻 A Bit About Me
+
+* 🎓 Software Engineering student
+* 🌱 Always learning and improving
+* 🧩 Interested in scalable and well‑designed systems
+* 🔓 Open source enthusiast
+
+I like building things that are **simple, useful, and easy to understand**.
