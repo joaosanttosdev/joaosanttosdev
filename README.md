@@ -8,7 +8,7 @@ I use this profile to share personal projects, experiments, and things I'm curre
 
 ### 🛠️ Tools & Tech
 
-* Node.js, JavaScript, TypeScript
+* Node.js, JavaScript
 * REST APIs
 * Linux & Shell
 * Git & GitHub
