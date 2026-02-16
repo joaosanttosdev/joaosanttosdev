@@ -6,23 +6,7 @@ Utilizo este perfil para compartilhar projetos pessoais, experimentos e conteúd
 
 🛠️ Tecnologias & Ferramentas
 
-Java
-
-Spring
-
-Node.js
-
-Vue.js
-
-Docker
-
-AWS
-
-REST APIs
-
-Linux & Shell
-
-Git & GitHub
+Java | Spring | Node.js | Vue.js | Docker | AWS | REST APIs | Linux & Shell | Git & GitHub
 
 👨‍💻 Um pouco sobre mim
 
