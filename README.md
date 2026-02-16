@@ -1,25 +1,37 @@
-## Hey there 👋
+Olá 👋
 
-I'm a **Software Engineering student** focused on **backend development and APIs**, with a strong interest in **open source**.
+Sou estudante de Engenharia de Software, com foco em desenvolvimento backend e APIs, e grande interesse em open source.
 
-I use this profile to share personal projects, experiments, and things I'm currently studying.
+Utilizo este perfil para compartilhar projetos pessoais, experimentos e conteúdos que estou estudando no momento.
 
----
+🛠️ Tecnologias & Ferramentas
 
-### 🛠️ Tools & Tech
+Java
 
-* Node.js, JavaScript
-* REST APIs
-* Linux & Shell
-* Git & GitHub
+Spring
 
----
+Node.js
 
-### 👨‍💻 A Bit About Me
+Vue.js
 
-* 🎓 Software Engineering student
-* 🌱 Always learning and improving
-* 🧩 Interested in scalable and well‑designed systems
-* 🔓 Open source enthusiast
+Docker
 
-I like building things that are **simple, useful, and easy to understand**.
+AWS
+
+REST APIs
+
+Linux & Shell
+
+Git & GitHub
+
+👨‍💻 Um pouco sobre mim
+
+🎓 Estudante de Engenharia de Software
+
+🌱 Sempre aprendendo e evoluindo
+
+🧩 Interessado em sistemas escaláveis e bem arquitetados
+
+🔓 Entusiasta de open source
+
+Gosto de construir soluções que sejam simples, úteis e fáceis de entender.
